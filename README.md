@@ -1,6 +1,6 @@
 # BaharRi | Hello 👋 
 
-I'm a frontend developer with a UX/UI background, exploring full-stack & LLM applications. My focus is on building interfaces and apps that feel good to use, while growing into the logic behind them.
+I'm a frontend developer with a UX/UI background, exploring fullstack & LLM applications. My focus is on building interfaces and apps that feel good to use, while growing into the logic behind them.
 
 ## 🔭 I’m currently working on:
 - "Lagoon", a retro-style RPG game in its early stages, built in python and inspired by old classics such as early Zelda games. Repo: https://github.com/baharRi/Lagoon
